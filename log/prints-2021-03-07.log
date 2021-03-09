@@ -1,0 +1,55 @@
+18:10:31.682 [main] INFO  resources.baseTestClass - Login succesful
+18:10:31.740 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+18:10:31.806 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:10:35.690 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:10:35.746 [main] INFO  resources.baseTestClass - FEATURED COURSES
+18:10:36.355 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+18:10:36.416 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:10:40.204 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:10:40.390 [main] INFO  resources.baseTestClass - Login succesful
+18:10:40.394 [main] INFO  resources.baseTestClass - ############## test case: ValidatingHeader is passed########################
+18:10:40.453 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:23:41.573 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:23:42.945 [main] INFO  resources.baseTestClass - Login succesful
+18:23:42.951 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+18:23:43.035 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:23:47.359 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:23:48.440 [main] INFO  resources.baseTestClass - Login succesful
+18:23:48.447 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+18:23:48.518 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:23:52.299 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:23:52.371 [main] INFO  resources.baseTestClass - FEATURED COURSES
+18:23:52.996 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+18:23:53.056 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:23:57.486 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:23:57.634 [main] INFO  resources.baseTestClass - Login succesful
+18:23:57.638 [main] INFO  resources.baseTestClass - ############## test case: ValidatingHeader is passed########################
+18:23:57.706 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:36:54.904 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:36:56.495 [main] INFO  resources.baseTestClass - Login succesful
+18:36:56.514 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+18:36:57.012 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:37:03.393 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:37:04.559 [main] INFO  resources.baseTestClass - Login succesful
+18:37:04.567 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+18:37:04.636 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:37:08.488 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:37:08.545 [main] INFO  resources.baseTestClass - FEATURED COURSES
+18:37:09.264 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+18:37:09.338 [main] INFO  resources.baseTestClass - ######  test case completed ########
+18:37:13.746 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+18:37:13.932 [main] INFO  resources.baseTestClass - Login succesful
+18:37:13.933 [main] INFO  resources.baseTestClass - ############## test case: ValidatingHeader is passed########################
+18:37:13.994 [main] INFO  resources.baseTestClass - ######  test case completed ########
+19:02:20.171 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+19:02:22.240 [main] INFO  resources.baseTestClass - Login succesful
+19:02:23.052 [main] INFO  resources.baseTestClass - forget password succesful
+19:02:23.218 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+19:02:23.794 [main] INFO  resources.baseTestClass - ######  test case completed ########
+19:02:31.783 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+19:02:32.940 [main] INFO  resources.baseTestClass - Login succesful
+19:02:33.493 [main] INFO  resources.baseTestClass - forget password succesful
+19:02:33.497 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
+19:02:33.566 [main] INFO  resources.baseTestClass - ######  test case completed ########
+19:02:38.698 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+19:02:38.795 [main] INFO  resources.baseTestClass - FEATURED COURSES

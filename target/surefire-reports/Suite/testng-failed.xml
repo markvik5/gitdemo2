@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.listener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="testCase.HomePage2">
+        <methods>
+          <include name="driverinit"/>
+          <include name="ValidatingHeader1"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testCase.HomePage2 -->
+      <class name="testCase.HomePage">
+        <methods>
+          <include name="driverinit"/>
+          <include name="teardown"/>
+          <include name="navigateToHomePage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testCase.HomePage -->
+      <class name="testCase.ValidateNevigateBar">
+        <methods>
+          <include name="driverinit"/>
+          <include name="teardown"/>
+          <include name="ValidatingHeader"/>
+        </methods>
+      </class> <!-- testCase.ValidateNevigateBar -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

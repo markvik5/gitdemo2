@@ -1,0 +1,49 @@
+19:02:40.468 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+19:02:41.706 [main] INFO  resources.baseTestClass - ######  test case completed ########
+19:02:50.445 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+19:02:52.684 [main] INFO  resources.baseTestClass - Login succesful
+19:02:52.685 [main] INFO  resources.baseTestClass - ############## test case: ValidatingHeader is passed########################
+19:02:52.758 [main] INFO  resources.baseTestClass - ######  test case completed ########
+11:59:30.605 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+11:59:41.601 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+11:59:41.669 [main] INFO  resources.baseTestClass - ######  test case completed ########
+11:59:43.703 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+11:59:53.057 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+11:59:55.171 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+11:59:57.185 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+11:59:59.138 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:00:00.465 [main] INFO  resources.baseTestClass - ##############ValidatingHeader is failed########################
+12:01:11.214 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:01:21.800 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+12:01:21.924 [main] INFO  resources.baseTestClass - ######  test case completed ########
+12:01:23.940 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:01:34.203 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+12:01:34.255 [main] INFO  resources.baseTestClass - ######  test case completed ########
+12:01:36.061 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:01:46.445 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+12:01:46.495 [main] INFO  resources.baseTestClass - ######  test case completed ########
+12:01:49.673 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:02:01.574 [main] INFO  resources.baseTestClass - ##############ValidatingHeader is failed########################
+12:02:01.670 [main] INFO  resources.baseTestClass - ######  test case completed ########
+12:21:19.964 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:21:43.495 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+12:27:39.662 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:28:34.949 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+12:32:11.685 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:32:43.599 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+12:34:48.521 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+12:35:17.680 [main] INFO  resources.baseTestClass - ##############ValidatingHeader is failed########################
+15:12:28.487 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+15:12:31.360 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+15:45:55.910 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+15:46:06.328 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+15:46:06.393 [main] INFO  resources.baseTestClass - ######  test case completed ########
+15:46:08.599 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+15:46:18.713 [main] INFO  resources.baseTestClass - ##############navigateToHomePage is failed########################
+15:46:18.772 [main] INFO  resources.baseTestClass - ######  test case completed ########
+15:46:20.419 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+15:46:30.556 [main] INFO  resources.baseTestClass - ##############ValidatingHeader1 is failed########################
+15:46:30.616 [main] INFO  resources.baseTestClass - ######  test case completed ########
+15:46:32.231 [main] INFO  resources.baseTestClass - Driver and URL got initialized
+15:46:42.349 [main] INFO  resources.baseTestClass - ##############ValidatingHeader is failed########################
+15:46:42.408 [main] INFO  resources.baseTestClass - ######  test case completed ########
