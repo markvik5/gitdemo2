@@ -52,4 +52,5 @@
 19:02:33.497 [main] INFO  resources.baseTestClass - ############## test case: navigateToHomePage is passed########################
 19:02:33.566 [main] INFO  resources.baseTestClass - ######  test case completed ########
 19:02:38.698 [main] INFO  resources.baseTestClass - Driver and URL got initialized
-19:02:38.795 [main] INFO  resources.baseTestClass - FEATURED COURSES
+19:02:38.795 [main] INFO  resources.baseTestClass - FEATURED COURSES 
+this is new change for demo purpose
